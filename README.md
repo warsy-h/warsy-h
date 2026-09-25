@@ -1,4 +1,5 @@
 # Hello, moi c'est Siwar ✨
+#PRENEZ MOI EN ALTERNANCE
 
 J'aime autant toucher au back-end que passer des heures à aligner un bouton au pixel près. Actuellement en BUT MMI, je me dirige tout droit vers le dev full-stack avec un gros penchant pour le design soigné.
 
